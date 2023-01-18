@@ -15,3 +15,7 @@ Upon clicking add card, create flashcard box will appear where you can write you
 Clicking one time on question flashcard will reveal its answer. 
 
 Clicking delete cards will delete all the cards.
+
+<img width="1315" alt="Example1" src="Example1.png">
+<br>
+<img width="1315" alt="Example2" src="Example2.png">

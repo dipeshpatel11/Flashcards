@@ -1,11 +1,11 @@
 # Flashcards
 
 
-Programming language:<br> HTML,<br> CSS, <br> Javascript 
+Programming language:<br> ▪️HTML,<br> ▪️CSS, <br> ▪️Javascript 
 
 Software used: 
 
-Visual Studio Code
+▪️Visual Studio Code
 
 
 A responsive web page that lets the user creates flashcards for thier exams preparation or for some other use. It doesn't reset everytime user refresh page. 
